@@ -50,4 +50,4 @@ There are several demonstration files available in this template.
 
 - ExampleFilter.java
 
-  A simple filter that adds a header to every response.
+  A complicated filter that adds a header to every response.
